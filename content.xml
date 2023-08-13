@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="AvariceTideAlerts_TR"
+name="Mycu: Avarice Tide Alerts - TR Patch"
+author="Naxre"
+version="121"
+date="2023-08-13"
+save="false"
+enabled="1">
+<text language=""
+description="
+Naxre tarafından Türkçeleştirilmiştir.&#13;&#10;
+Yeni bir varsayılan komut olan 'Gelgiti Araştır' eklenir. Bu komutu alan pilot Avarice sektörlerinden birine uçacak ve gelen Gelgit hakkında bilgi toplamaya başlayacak. Elde edilecek bilgi pilotun seviyesine bağlıdır.
+"/>
+<dependency id="AvariceTideAlerts" optional="false" name="Mycu: Avarice Tide Alerts"/>
+</content>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<language>
+    <page id="20947" voice="no">
+        <t id="100">Gelgit'i Araştırın</t>
+
+        <t id="101">Avarice Gelgiti yaklaşıyor. Lütfen tüm açık alanları boşaltın ve derhal içerideki sığınaklara yönelin</t>
+        <t id="102">Gelgit 15 dakikaya başlayacak. Lütfen olası güneş patlamasına hazırlıklı olun</t>
+        <t id="103">Haberiniz olsun, Gelgit 15 dakika içinde etkili olacak. Önlem almanız yararınıza olur</t>
+        <t id="104">Avarice Gelgiti 15 dakika içinde gerçekleşecek. Lütfen tüm ekipmanların uygun şekilde korunduğundan ve personellerin bilgilendirildiğine emin olun</t>
+        <t id="105">Gelgit yaklaşık 15 dakikaya kadar etkisini gösterecektir. Lütfen olası hasar için hazırlıklı olun</t>
+        <t id="106">Gelgit'in yaklaşık 15 dakika içinde olması bekleniyor. Bunun için hazırlığa derhal başlanmalıdır</t>
+        <t id="107">Dikkat, Gelgit 15 dakika içinde burada olacak. Lütfen tüm ekipmanın güvende olduğundan ve tüm mürettebatın olası bir etkiye karşı hazırlıklı durumda olduğundan emin olun</t>
+        <t id="108">Gelgit olayı sadece birkaç dakika içinde gerçekleşecek. Gereken önlemleri aldığınıza emin olun.</t>
+        <t id="109">Gelgit olayı birkaç dakika içinde gerçekleşecek, hazırlıkları hızlandırın</t>
+        <t id="110">Gelgit'in etkisini göstermesine 15 dakikadan kısa zaman var, bütün mürettebatın önceden belirtilmiş emniyetli bölgelerde olduğundan emin olun</t>
+
+        <t id="115">Gelgit dalgası bir dakika içinde Avarice sistemlerinde etkisini göstermeye başlayacak!</t>
+        <t id="116">Tahribata yol açacak Gelgit, Avarice sistemlerinde bir dakika içinde harekete geçecek!</t>
+        <t id="117">60 saniye içinde Gelgit Avarice sistemlerinde etkisini gösterecek!</t>
+        <t id="117">Gelgit dalgası bir dakika içinde harekete geçecek!</t>
+        <t id="117">Tahribata yol açan Gelgit, Avarice sistemlerinde 60 saniye içinde harekete geçecek!</t>
+
+        <t id="120">Gelgit'in ne zaman etkisini göstereceğini biliyor musun?</t>
+        <t id="121">Gelgit'in tam olarak ne zaman gerçekleşeceğini söyler misin?</t>
+        <t id="122">Gelgit'in bizi ne zaman etkileyeceği hakkında bir fikrin var mı?</t>
+        <t id="123">Gelgit'in ne zaman olacağını bilmem gerekiyor. Bana yardım edebilir misin?</t>
+        <t id="124">Gelgit'in oluşma zamanları hakkında bilgiye sahip misin?</t>
+        <t id="125">Merak ediyorum acaba bana gelgitin ne zaman olacağını tahmini olarak söyleyin</t>
+        <t id="126">Gelgit'in ulaşma süresi hakkında güncel bilgi sağlayabilir misin?</t>
+
+        <t id="130">Gelgit zamanlaması hakkında bilgi alın</t>
+
+        <t id="140">Gelgit yaklaşık %s içinde olacak</t>
+        <t id="141">Son verilere göre, Gelgit'in %s civarlarında gerçekleşmesi bekleniyor</t>
+        <t id="142">Edindiğim bilgiye göre, Gelgit yaklaşık %s içinde gerçekleşecek</t>
+        <t id="143">Görünüşe göre Gelgit, kabaca %s içinde gerçekleşecek, yani hesaplamalarıma göre</t>
+        <t id="144">Bence Gelgit %s civarlarında etkili olacak</t>
+        <t id="145">Öngörülerime göre, Gelgit burada %s içinde gerçekleşecek</t>
+
+        <t id="146">Gelgit tam olarak %s içinde gerçekleşecek</t>
+        <t id="147">Edindiğim bilgiye göre Gelgit tam olarak %s içinde gerçekleşecek</t>
+        <t id="148">Araştırmalarıma göre, Gelgit burada tam olarak %s içinde gerçekleşecek</t>
+
+        <t id="150">Henüz bilmiyorum. Ama öğreneceğim</t>
+        <t id="151">Hâlâ daha fazla bilgi toplamaya çalışıyorum. Bana biraz daha zaman verebilir misin?</t>
+        <t id="152">Henüz verebilecek bir cevabım yok. Bulabilmem için bana biraz zaman verir misiniz?</t>
+        <t id="153">Üzgünüm, cevabı bilmiyorum. Biraz daha araştırma yapmama izin verin</t>
+        <t id="154">Şu anda bu bilgiye sahip değilim. Soruşturmak için bana birkaç dakika verin</t>
+
+        <t id="160">Gelgit'in gerçekleşme zamanını tahmin edebilecek kadar tecrübeli değilim</t>
+        <t id="161">Üzgünüm ama Gelgit'in ne zaman olacağını öngörmek için gerekli tecrübeye sahip değilim</t>
+        <t id="162">Tecrübe eksikliğim Gelgit'in ulaşma zamanını tahmin etmemi güçleştiriyor</t>
+        <t id="163">Gelgit'in ulaşma süresini tahmin edecek nitelikte değilim</t>
+        <t id="164">Yeterli tecrübem olmadığı için Gelgit'in ulaşma süresini isabetli tahmin edemem</t>
+
+        <t id="200">Gelgit'i araştıran %s \(%s\) geminin kaptanı</t>
+
+        <t id="300">dakika</t>
+        <t id="301">%s dk %s sn</t>
+    </page>
+</language>
