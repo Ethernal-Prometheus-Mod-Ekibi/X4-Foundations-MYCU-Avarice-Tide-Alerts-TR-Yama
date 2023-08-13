@@ -1,1 +1,3 @@
 # X4-Foundations-MYCU-Avarice-Tide-Alerts-TR-Yama
+
+"Avarice-Tide-Alerts" modu, X4 Foundations oyununun MYCU tarafından geliştirilen bir eklentisidir. Bu mod, oyun içi "Gelgit Dalgası Uyarıları"nı Türkçe'ye tercüme edilmiştir. Mod, oyunculara oyun içindeki önemli olayları bildiren ve dikkatlerini çeken bir özellik sunar. Tercüme sayesinde Türkçe dilinde oyunun keyfini çıkarmak isteyen oyuncular, Gelgit Dalgası ile ilgili uyarıları anlayabilir ve gereken önlemleri alabilirler. Bu tercüme, oyuncuların oyun deneyimini daha anlaşılır hale getirirken, modun yaratıcısının çalışmalarını daha geniş bir oyuncu kitlesiyle paylaşmasına da yardımcı olur.
